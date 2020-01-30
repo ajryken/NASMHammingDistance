@@ -21,6 +21,6 @@ Make is used to build the program using nasm and gcc.
 * After these are installed, you can follow the Linux instructions to get the programs up and running.
 * You can edit the source code using your preferred IDE but SASM (https://dman95.github.io/SASM/english.html) is a great IDE for all major assembly languages. I suggest you install and use this IDE for assembly languages.
 
-##Authors
+## Authors
 
 * **Addison Ryken** - *Initial implementation* - [ajryken] (https://github.com/ajryken)
